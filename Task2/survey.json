@@ -1,0 +1,33 @@
+{
+   "Common Survey": {
+      "PageOne": {
+          "Age": {
+              "Description" : "How old are you?",
+              "Answers" : [
+                  "0-20",
+                  "20-40",
+                  "40-60",
+		  "60-"
+              ]
+          },
+          "Meal": {
+              "Description" : "What is your favorite meal?",
+              "Answers" : [
+                  "pizza",
+                  "pasta",
+                  "sushi",
+		  "other"
+              ]
+          },
+	  "Living": {
+              "Description" : "Where are you living?",
+              "Answers" : [
+                  "Europe",
+                  "Asia",
+                  "America",
+		  "Australia"
+              ]
+          }
+      }
+   }
+}
